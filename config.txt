@@ -1,0 +1,3 @@
+start.address = 3151392
+table.size = 1236
+data.size = 4
